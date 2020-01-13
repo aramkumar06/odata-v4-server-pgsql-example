@@ -58,3 +58,5 @@ Alternatively if you start unit tests (`npm test`) then the database will be ini
 [JayStack OData v4 Server with MongoDB tutorial](https://jaydata.org/blog/jaystack-odata-v4-server-with-mongodb-tutorial#wptoc_0_1_0)
 
 [Mysql Example](https://github.com/jaystack/odata-v4-server-mysql-example)
+
+https://blogs.sap.com/2016/02/08/odata-everything-that-you-need-to-know-part-1/
