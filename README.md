@@ -56,3 +56,5 @@ by submitting [localhost:3000/initDb](http://localhost:3000/initDb).
 Alternatively if you start unit tests (`npm test`) then the database will be initialized automatically.
 
 [JayStack OData v4 Server with MongoDB tutorial](https://jaydata.org/blog/jaystack-odata-v4-server-with-mongodb-tutorial#wptoc_0_1_0)
+
+[Mysql Example](https://github.com/jaystack/odata-v4-server-mysql-example)
