@@ -54,3 +54,5 @@ npm start
 After starting the application (it will listen on `localhost:3000` by default) you can generate / recreate the sample dataset
 by submitting [localhost:3000/initDb](http://localhost:3000/initDb).
 Alternatively if you start unit tests (`npm test`) then the database will be initialized automatically.
+
+[JayStack OData v4 Server with MongoDB tutorial](https://jaydata.org/blog/jaystack-odata-v4-server-with-mongodb-tutorial#wptoc_0_1_0)
